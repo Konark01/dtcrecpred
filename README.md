@@ -1,4 +1,4 @@
-# Differentiated Thyroic Cancer Recurrence Prediction
+# Differentiated Thyroid Cancer Recurrence Prediction
 This is a project wherein I created a Differentiated Thyroid Cancer Recurrence Prediction model and created an interface that predicted this without pickling.
 
 ## What's new in this?
